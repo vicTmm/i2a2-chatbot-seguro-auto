@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+python-dotenv
+openai
+scikit-learn
+rapidfuzz
+pytest
